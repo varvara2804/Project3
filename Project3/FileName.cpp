@@ -24,7 +24,7 @@ void PrintArray()
 {
 
 }
- int main()
+ 
 void Print()
 {
 
