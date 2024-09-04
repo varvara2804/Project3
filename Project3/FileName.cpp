@@ -23,5 +23,5 @@ void Print()
 
 int main()
 {
-
+	cout << "Hello world" << endl;
 }
