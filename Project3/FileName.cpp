@@ -16,6 +16,11 @@ void F3()
 
 }
 
+void InitializeArray()
+{
+
+}
+
 int main()
 {
 
