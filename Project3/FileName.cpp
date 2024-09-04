@@ -20,6 +20,10 @@ void InitializeArray()
 {
 
 }
+void PrintArray()
+{
+
+}
 
 int main()
 {
