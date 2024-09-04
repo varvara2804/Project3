@@ -16,6 +16,15 @@ void F3()
 
 }
 
+void InitializeArray()
+{
+
+}
+void PrintArray()
+{
+
+}
+ int main()
 void Print()
 {
 
